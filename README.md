@@ -1,6 +1,6 @@
 # Getrandomslok
 
-Gives random joke whenever you click it. 
+Gives random slok whenever you click the extension. 
 
 ### Installation Instructions
 **Google Chrome / Microsoft Edge** 
