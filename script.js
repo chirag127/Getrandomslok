@@ -1,8 +1,8 @@
 fetch("https://bhagavadgitaapi.in/slok?api_key=b89a6a08cd62a233e")
   .then(data => data.json())
-  .then(jokeData => {
-      const jokeText = jokeData.slok;
-      const jokep = document.getElementById('jokep')
+  .then(sData => {
+      const sText = sData.slok;
+      const sp = document.getElementById('sp')
 
-      jokep.innerHTML = jokeText;
+      sp.innerHTML = sText;
   })
