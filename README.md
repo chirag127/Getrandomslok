@@ -1,6 +1,6 @@
 # Gitanest
 
-Gitanest is a open source browser extension.This browser extension gives you a bhagwat gita shlok whenever you click the extension. Please pin the extension to use it properly.
+Gitanest is a open source browser extension.This browser extension gives you a bhagwat gita shlok, it's chapter number, verse number and meaning whenever the extension is clicked. Please pin the extension to use it properly.
 
 ## Installation Instructions
 
