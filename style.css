@@ -1,17 +1,17 @@
 body {
-    width: 750px;
-    height: 450px;
-    background-color: aliceblue;
-    display: flex;
-    justify-content: center;
+  width: 750px;
+  height: 450px;
+  background-color: rgb(245, 242, 197);
+  display: flex;
+  justify-content: center;
 }
 
 p {
-    display: inner-flex;
-    margin: auto 10px;
-    font-size: 25px;
-    color: rgb(19, 85, 228);
-    border-radius: 10px;
-    border: 1px solid lightblue;
-    padding: 10px;
+  display: inner-flex;
+  margin: auto 10px;
+  font-size: 25px;
+  color: rgb(40, 63, 189);
+  border-radius: 10px;
+  border: 1px solid lightblue;
+  padding: 10px;
 }
