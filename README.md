@@ -6,3 +6,4 @@ Gitanest is a open source browser extension.This browser extension gives you a b
 
 ### First download this repo as a [ZIP file from GitHub](https://api.github.com/repos/chirag127/Gitanest/zipball/main).
 
+#### Go [here](https://github.com/chirag127/Installation-Instructions/blob/main/README.md#for-browser-extension) for futher instructions.
