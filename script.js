@@ -11,6 +11,5 @@ fetch("https://bhagavadgitaapi.in/slok?api_key=b89a6a08cd62a233e")
 
     sp.innerHTML = slokT;
 
-    mp.innerHTML =
-      "It's chapter number.verse number and meaning are :- " + siva;
+    mp.innerHTML = siva;
   });
