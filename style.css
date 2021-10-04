@@ -1,7 +1,7 @@
 body {
   width: 750px;
   height: 350px;
-  background-color: beige;
+  background-color: aliceblue;
   display: flex;
   justify-content: center;
 }
